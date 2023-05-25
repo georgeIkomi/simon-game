@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/georgeIkomi/simon-game/issues"
   },
-  "homepage": "https://github.com/georgeIkomi/simon-game#readme"
+  "homepage": "https://github.com/georgeIkomi/simon-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
